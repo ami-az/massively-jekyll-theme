@@ -1,9 +1,9 @@
 # site settings
-title: Massively
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: Future and Odds
+subtitle: by ami-az
+email: nazmi_zaki@yahoo.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/aminazmi" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
@@ -16,7 +16,7 @@ phone: (716) 555-5555
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/andrewbanchich
+github_url: https://github.com/ami-az
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url:
 instagram_url:
